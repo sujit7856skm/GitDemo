@@ -11,6 +11,7 @@
   <name>GitDemo</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
+  <description>This for test the git demo project</description>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
